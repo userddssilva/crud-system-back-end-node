@@ -1,0 +1,27 @@
+{
+  "name": "challenge-system-back",
+  "version": "1.0.0",
+  "description": "api of user system register",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userddssilva/challenge-system-back.git"
+  },
+  "keywords": [
+    "api",
+    "users",
+    "learning",
+    "fast",
+    "security"
+  ],
+  "author": "Dayvson Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/userddssilva/challenge-system-back/issues"
+  },
+  "homepage": "https://github.com/userddssilva/challenge-system-back#readme"
+}
