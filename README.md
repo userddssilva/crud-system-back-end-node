@@ -1,5 +1,0 @@
-### Libs
-
-- Nodejs
-- Express
-- MongoDB
